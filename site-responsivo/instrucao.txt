@@ -1,3 +1,0 @@
-Link do site:
-
-https://github.com/GustavoHenriqueSilveira/site-responsivo.git
